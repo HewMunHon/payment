@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">payment</string>
+    <string name="Order_detail_label">Order Detail:</string>
+    <string name="payment_label">Payment</string>
+    <string name="name_label">Name:</string>
+    <string name="address_label">Address:</string>
+    <string name="phone_label">Phone</string>
+    <string name="phones_label">Phone:</string>
+    <string name="note_label">Notes:</string>
+    <string name="delivery_method_label">Delivery Method:</string>
+    <string name="delivery_address_radioButton">Delivery to this address</string>
+    <string name="pickup_radioButton">Pick up</string>
+    <string name="cash_methods_label">Cash Method</string>
+    <string name="cash_method_label">Cash Method:</string>
+    <string name="cash_on_delivery_radioButton">Cash On Delivery</string>
+    <string name="paypal_radioButton">Paypal</string>
+    <string name="enter_name_hint">Enter your name.....</string>
+    <string name="enter_address_hint">Enter your address....</string>
+    <string name="enter_phone_hint">Enter your phone</string>
+    <string name="enter_note_hint">Enter your note(if needed)</string>
+    <string name="confirm_button">Confrim</string>
+    <string name="Cancel_button">Cancel</string>
+    <string name="login_button">Login</string>
+    <string name="payment_text">Payment</string>
+    <string name="order_detail_text">Order Detail:</string>
+    <string name="payment_methods_label">Payment Method</string>
+    <string name="payment_method_label">Payment Method:</string>
+    <string name="ok_text">OK</string>
+    <string name="cancle_text">Cancle</string>
+    <string name="credit_card_text">Credit Card</string>
+
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
